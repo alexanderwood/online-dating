@@ -30,4 +30,6 @@ Next, questions regarding the expectations of the participants were asked. The d
 
 ## This Repository
 
-This repository contains 
+This repository contains the jupyter notebook used for data analysis as well as the data set and data key.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexanderwood/online-dating/master)
